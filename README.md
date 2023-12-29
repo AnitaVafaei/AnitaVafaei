@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Webscraping via API**, **Large Language Models**, **Portrait photography**
 
-- 👯 I’m looking to collaborate on **NMTFcoclust**, **Persiancoclust**, **ELBMcoclust**, **SELBMcoclust**, **Hybridcoclust**
+- 👯 I’m looking to collaborate on **IUCN red**
   
 ![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/NMTF/Coclust/pink?icon=instgrame)
 ![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/Persian/Coclust/red?icon=instgrame)
@@ -15,7 +15,7 @@
 
 - 🤝 I'm looking for help with **Building teams for work on image and video scraped datasets**
 
-- 📫 How to reach me **saeidhoseinipour9@gmail.com**, **saeidhoseinipour@aut.ac.ir**
+- 📫 How to reach me **saeidhoseinipour9@gmail.com**
 
 - ⚡ Fun fact **In the end, it doesn't even matter**
 
