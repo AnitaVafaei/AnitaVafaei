@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently working on **Persian Text mining**, **Self-Orgnized Co-Clustering**, **Hypothesis test for co-clustering**
 
-- 🌱 I’m currently learning **Webscraping via API**, **Large Language Models**, **Portrait photography**
-
+- 🌱 I’m currently learning **AERMOD**, **SoundPLAN**, **WindPRO**, **MODFLOW**, **HEC-HMS**
+ 
 - 👯 I’m looking to collaborate on **IUCN red**
   
 ![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/NMTF/Coclust/pink?icon=instgrame)
@@ -13,16 +13,19 @@
 ![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/SELBM/Coclust/black?icon=instgrame)
 ![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/Hybride/Coclust/blue?icon=instgrame)
 
+<!--
 - 🤝 I'm looking for help with **Building teams for work on image and video scraped datasets**
-
-- 📫 How to reach me **saeidhoseinipour9@gmail.com**
+-->
+-  Hobbies **Painting**, **singing**, **digital art**, **reading books**, and **writing poem**
+- 📫 How to reach me **anita.vafaei@studenti.unimi.it**, **anitavafaee@gmail.com**
 
 - ⚡ Fun fact **In the end, it doesn't even matter**
 
-- For make short image about me see [**MACHA**](https://www.pinterest.com/saeidhoseinipour9/macha/) as nickname board in my pinterest profile.
+<!--
+  - For make short image about me see [**MACHA**](https://www.pinterest.com/saeidhoseinipour9/macha/) as nickname board in my pinterest profile.
+-->
 
-
-Research Interests: `Co-clustering`, `Latent Block Models`, `Matrix Factorization`, `Persian Text mining` ,`Natural Language Processing`, `Machine Learning`, `Statistical Learning`
+Research Interests: `Environmental Health`, `Environmental Modeling`, `air pollutants`, `Depth-Area-Duration` ,`Risk management`, `Machine Learning`, `Statistical Learning`
 
 You can also follow me on:
 - [**Pintrest**](https://www.pinterest.com/saeidhoseinipour9/macha/)
