@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AnitA </h1> 
-<h3 align="center">Researcher </h3>
+<h3 align="center">Data analysis in Environmental Health </h3>
 
 - 🔭 I’m currently working on **Persian Text mining**, **Self-Orgnized Co-Clustering**, **Hypothesis test for co-clustering**
 
